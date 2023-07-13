@@ -11,7 +11,7 @@
 
 ## 📚 Modules
 
-1. [Threat Intelligence](https://github.com/blue-teaming-project/m1) ✅ **Done**
+1. [Threat Intelligence](https://github.com/blue-teaming-project/m1) 
 
    This module focuses on developing a strong foundation in threat intelligence. Learn how to gather, analyze, and leverage threat intelligence to proactively detect and mitigate potential security threats.
 
@@ -23,7 +23,7 @@
 
    The module covers intrusion detection and prevention systems. Gain knowledge in setting up and configuring these systems, analyzing network traffic for potential intrusions, and taking proactive measures to prevent unauthorized access.
 
-4. [Vulnerability Management](https://github.com/blue-teaming-project/m4) 📈 **In Progress**
+4. [Vulnerability Management](https://github.com/blue-teaming-project/m4) 
 
    This module focuses on vulnerability management practices. Learn how to identify, assess, and prioritize vulnerabilities in systems and applications. Develop skills in vulnerability scanning, patch management, and effective remediation.
 
